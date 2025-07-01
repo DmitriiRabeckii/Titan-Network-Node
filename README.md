@@ -18,7 +18,7 @@ Minimum specs required:
 Run the script below and choose option **1️⃣ Install Node** from the menu:
 
 ```bash
-curl -O https://raw.githubusercontent.com/TmB0o0/Titan-Network-Node/refs/heads/main/titan && chmod +x titan && sudo ./titan
+curl -O https://raw.githubusercontent.com/DmitriiRabeckii/Titan-Network-Node/refs/heads/main/titan && chmod +x titan && sudo ./titan
 ```
 <img width="893" alt="Снимок экрана 2025-04-14 в 12 40 55" src="https://github.com/user-attachments/assets/6fde8717-6a40-445b-b961-203f40a7de7d" />
 
